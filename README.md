@@ -1,5 +1,5 @@
 # PSoC6_Adventures
- cteq.eu's adventures with Cypress / Infineon's PSoC6
+ cteq.eu's adventures with Cypress / Infineon's PSoC6 using ModusToolkit
  
  
 - PSoC6_Blinky: Howto control the RGB LED  
