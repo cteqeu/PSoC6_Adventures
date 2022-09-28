@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;mtb_shared/freertos/release-v10.4.302/Source/portable/COMPONENT_CM4/FreeRTOSConfig.h&apos;" deleteContents="false" description="Delete resource &apos;mtb_shared/freertos/release-v10.4.302/Source/portable/COMPONENT_CM4/FreeRTOSConfig.h&apos;" element1="/mtb_shared/freertos/release-v10.4.302/Source/portable/COMPONENT_CM4/FreeRTOSConfig.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1664307330996"/>
+</session>

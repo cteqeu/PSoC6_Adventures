@@ -1,0 +1,69 @@
+21:56:20 **** Incremental Build of configuration Debug for project FreeRTOS_HelloWorld ****
+"C:\\Users\\20002890\\ModusToolbox\\tools_2.4\\modus-shell\\bin\\make" CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=2.4 CY_IDE_TOOLS_DIR=C:/Users/20002890/ModusToolbox/tools_2.4 -j8 all 
+Tools Directory: C:/Users/20002890/ModusToolbox/tools_2.4
+CY8CPROTO-062-4343W.mk: ./libs/TARGET_CY8CPROTO-062-4343W/CY8CPROTO-062-4343W.mk
+Log file= "C:/Users/20002890/AppData/Local/Temp/device-configurator-cli/device-configurator-cli-20220927.215626.677-18472.log"
+Command line= "C:/Users/20002890/ModusToolbox/tools_2.4/device-configurator/device-configurator-cli.exe --library ../mtb_shared/mtb-pdl-cat1/release-v2.4.1/devicesupport.xml --build ./libs/TARGET_CY8CPROTO-062-4343W/COMPONENT_BSP_DESIGN_MODUS/design.modus --check-mcu=CY8C624ABZI-S2D44 --check-coprocessors=CYW4343WKUBG --readonly --skip-build"
+
+Prebuild operations complete
+Commencing build operations...
+
+Tools Directory: C:/Users/20002890/ModusToolbox/tools_2.4
+CY8CPROTO-062-4343W.mk: ./libs/TARGET_CY8CPROTO-062-4343W/CY8CPROTO-062-4343W.mk
+
+Initializing build: mtb-example-psoc6-hello-world Debug CY8CPROTO-062-4343W GCC_ARM
+
+Auto-discovery in progress...
+-> Found 261 .c file(s)
+-> Found 47 .S file(s)
+-> Found 25 .s file(s)
+-> Found 0 .cpp file(s)
+-> Found 0 .o file(s)
+-> Found 6 .a file(s)
+-> Found 632 .h file(s)
+-> Found 0 .hpp file(s)
+-> Found 0 resource file(s)
+Applying filters...
+Auto-discovery complete
+
+Constructing build rules...
+Build rules construction complete
+
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Building 217 file(s)
+==============================================================================
+= Build complete =
+==============================================================================
+
+Calculating memory consumption: CY8C624ABZI-S2D44 GCC_ARM -Og
+
+   ---------------------------------------------------- 
+  | Section Name         |  Address      |  Size       | 
+   ---------------------------------------------------- 
+  | .cy_m0p_image        |  0x10000000   |  6216       | 
+  | .text                |  0x10002000   |  38664      | 
+  | .ARM.exidx           |  0x1000b708   |  8          | 
+  | .copy.table          |  0x1000b710   |  24         | 
+  | .zero.table          |  0x1000b728   |  8          | 
+  | .data                |  0x080022e0   |  1240       | 
+  | .cy_sharedmem        |  0x080027b8   |  8          | 
+  | .noinit              |  0x080027c0   |  148        | 
+  | .bss                 |  0x08002854   |  3756       | 
+  | .heap                |  0x08003700   |  1028352    | 
+   ---------------------------------------------------- 
+
+  Total Internal Flash (Available)          2097152    
+  Total Internal Flash (Utilized)           48152      
+
+  Total Internal SRAM (Available)           1046528    
+  Total Internal SRAM (Utilized with heap)  1033504    
+
+  
+
+21:56:39 Build Finished. 0 errors, 0 warnings. (took 19s.2ms)
+
