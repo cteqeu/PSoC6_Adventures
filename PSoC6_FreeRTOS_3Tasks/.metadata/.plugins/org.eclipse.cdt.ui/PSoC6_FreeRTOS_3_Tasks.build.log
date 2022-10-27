@@ -1,0 +1,64 @@
+14:40:56 **** Incremental Build of configuration Debug for project PSoC6_FreeRTOS_3_Tasks ****
+"C:\\Users\\20002890\\ModusToolbox\\tools_3.0\\modus-shell\\bin\\make" CY_MAKE_IDE=eclipse CY_IDE_TOOLS_DIR=C:/Users/20002890/ModusToolbox/tools_3.0 CY_IDE_BT_TOOLS_DIR= -j8 all 
+Tools Directory: C:/Users/20002890/ModusToolbox/tools_3.0
+Searching installed tools in progress...
+Searching installed tools complete
+
+
+INFO: Multiple tools versions were found in "/cygdrive/c/Users/20002890/ModusToolbox/tools_2.4 /cygdrive/c/Users/20002890/ModusToolbox/tools_3.0 C:/Users/20002890/ModusToolbox/tools_2.4 C:/Users/20002890/ModusToolbox/tools_3.0". This build is currently using "C:/Users/20002890/ModusToolbox/tools_3.0". Check that this is the correct version that should be used in this build. To stop seeing this message, set the CY_TOOLS_PATHS environment variable to the location of the tools directory. This can be done either as an environment variable or set in the application Makefile.
+
+
+
+Prebuild operations complete
+
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+
+Tools Directory: C:/Users/20002890/ModusToolbox/tools_3.0
+
+Initializing build: mtb-example-hal-hello-world Debug APP_CY8CPROTO-062-4343W GCC_ARM
+
+Constructing build rules...
+Build rules construction complete
+
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Building 216 file(s)
+Compiling task1.c -DCOMPONENT_4343W -DCOMPONENT_APP_CY8CPROTO_062_4343W -DCOMPONENT_CAT1 -DCOMPONENT_CAT1A -DCOMPONENT_CM0P_SLEEP -DCOMPONENT_CM4 -DCOMPONENT_CM4_0 -DCOMPONENT_Debug -DCOMPONENT_FREERTOS -DCOMPONENT_GCC_ARM -DCOMPONENT_HCI_UART -DCOMPONENT_MURATA_1DX -DCOMPONENT_MW_ABSTRACTION_RTOS -DCOMPONENT_MW_CAT1CM0P -DCOMPONENT_MW_CLIB_SUPPORT -DCOMPONENT_MW_CMSIS -DCOMPONENT_MW_CORE_LIB -DCOMPONENT_MW_CORE_MAKE -DCOMPONENT_MW_FREERTOS -DCOMPONENT_MW_MTB_HAL_CAT1 -DCOMPONENT_MW_MTB_PDL_CAT1 -DCOMPONENT_MW_RECIPE_MAKE_CAT1A -DCOMPONENT_MW_RETARGET_IO -DCOMPONENT_PSOC6_02 -DCOMPONENT_SOFTFP -DCOMPONENT_WIFI_INTERFACE_SDIO -DCORE_NAME_CM4_0=1 -DCY8C624ABZI_S2D44 -DCY_APPNAME_mtb_example_hal_hello_world -DCY_SUPPORTS_DEVICE_VALIDATION -DCY_TARGET_BOARD=APP_CY8CPROTO_062_4343W -DCY_USING_HAL -DDEBUG -DTARGET_APP_CY8CPROTO_062_4343W  -I. -Ibsps/TARGET_APP_CY8CPROTO-062-4343W -Ibsps -Ibsps/TARGET_APP_CY8CPROTO-062-4343W/bluetooth -Ibsps/TARGET_APP_CY8CPROTO-062-4343W/config/GeneratedSource -Ibsps/TARGET_APP_CY8CPROTO-062-4343W/config -I../mtb_shared/freertos/release-v10.4.304/Source/include -I../mtb_shared/freertos/release-v10.4.304/Source -I../mtb_shared/freertos/release-v10.4.304 -I../mtb_shared/freertos/release-v10.4.304/Source/portable/COMPONENT_CM4 -I../mtb_shared/freertos/release-v10.4.304/Source/portable -I../mtb_shared/freertos/release-v10.4.304/Source/portable/COMPONENT_CM4/TOOLCHAIN_GCC_ARM -I../mtb_shared/retarget-io/release-v1.3.0 -I../mtb_shared/abstraction-rtos/release-v1.6.0/include -I../mtb_shared/abstraction-rtos/release-v1.6.0 -I../mtb_shared/abstraction-rtos/release-v1.6.0/include/COMPONENT_FREERTOS -I../mtb_shared/cat1cm0p/release-v1.0.0/COMPONENT_CAT1A -I../mtb_shared/cat1cm0p/release-v1.0.0 -I../mtb_shared/clib-support/release-v1.3.0 -I../mtb_shared/clib-support/release-v1.3.0/TOOLCHAIN_GCC_ARM -I../mtb_shared/cmsis/release-v5.8.0/Core/Include -I../mtb_shared/cmsis/release-v5.8.0/Core -I../mtb_shared/cmsis/release-v5.8.0 -I../mtb_shared/core-lib/release-v1.3.1/include -I../mtb_shared/core-lib/release-v1.3.1 -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/COMPONENT_CAT1A/include/pin_packages -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/COMPONENT_CAT1A/include -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/COMPONENT_CAT1A -I../mtb_shared/mtb-hal-cat1/release-v2.2.0 -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/COMPONENT_CAT1A/include/triggers -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/include -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/include_pvt -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/source -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices/COMPONENT_CAT1A/include -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices/COMPONENT_CAT1A -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0 -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices/COMPONENT_CAT1A/include/ip -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/drivers/include -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/drivers 
+Compiling task3.c -DCOMPONENT_4343W -DCOMPONENT_APP_CY8CPROTO_062_4343W -DCOMPONENT_CAT1 -DCOMPONENT_CAT1A -DCOMPONENT_CM0P_SLEEP -DCOMPONENT_CM4 -DCOMPONENT_CM4_0 -DCOMPONENT_Debug -DCOMPONENT_FREERTOS -DCOMPONENT_GCC_ARM -DCOMPONENT_HCI_UART -DCOMPONENT_MURATA_1DX -DCOMPONENT_MW_ABSTRACTION_RTOS -DCOMPONENT_MW_CAT1CM0P -DCOMPONENT_MW_CLIB_SUPPORT -DCOMPONENT_MW_CMSIS -DCOMPONENT_MW_CORE_LIB -DCOMPONENT_MW_CORE_MAKE -DCOMPONENT_MW_FREERTOS -DCOMPONENT_MW_MTB_HAL_CAT1 -DCOMPONENT_MW_MTB_PDL_CAT1 -DCOMPONENT_MW_RECIPE_MAKE_CAT1A -DCOMPONENT_MW_RETARGET_IO -DCOMPONENT_PSOC6_02 -DCOMPONENT_SOFTFP -DCOMPONENT_WIFI_INTERFACE_SDIO -DCORE_NAME_CM4_0=1 -DCY8C624ABZI_S2D44 -DCY_APPNAME_mtb_example_hal_hello_world -DCY_SUPPORTS_DEVICE_VALIDATION -DCY_TARGET_BOARD=APP_CY8CPROTO_062_4343W -DCY_USING_HAL -DDEBUG -DTARGET_APP_CY8CPROTO_062_4343W  -I. -Ibsps/TARGET_APP_CY8CPROTO-062-4343W -Ibsps -Ibsps/TARGET_APP_CY8CPROTO-062-4343W/bluetooth -Ibsps/TARGET_APP_CY8CPROTO-062-4343W/config/GeneratedSource -Ibsps/TARGET_APP_CY8CPROTO-062-4343W/config -I../mtb_shared/freertos/release-v10.4.304/Source/include -I../mtb_shared/freertos/release-v10.4.304/Source -I../mtb_shared/freertos/release-v10.4.304 -I../mtb_shared/freertos/release-v10.4.304/Source/portable/COMPONENT_CM4 -I../mtb_shared/freertos/release-v10.4.304/Source/portable -I../mtb_shared/freertos/release-v10.4.304/Source/portable/COMPONENT_CM4/TOOLCHAIN_GCC_ARM -I../mtb_shared/retarget-io/release-v1.3.0 -I../mtb_shared/abstraction-rtos/release-v1.6.0/include -I../mtb_shared/abstraction-rtos/release-v1.6.0 -I../mtb_shared/abstraction-rtos/release-v1.6.0/include/COMPONENT_FREERTOS -I../mtb_shared/cat1cm0p/release-v1.0.0/COMPONENT_CAT1A -I../mtb_shared/cat1cm0p/release-v1.0.0 -I../mtb_shared/clib-support/release-v1.3.0 -I../mtb_shared/clib-support/release-v1.3.0/TOOLCHAIN_GCC_ARM -I../mtb_shared/cmsis/release-v5.8.0/Core/Include -I../mtb_shared/cmsis/release-v5.8.0/Core -I../mtb_shared/cmsis/release-v5.8.0 -I../mtb_shared/core-lib/release-v1.3.1/include -I../mtb_shared/core-lib/release-v1.3.1 -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/COMPONENT_CAT1A/include/pin_packages -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/COMPONENT_CAT1A/include -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/COMPONENT_CAT1A -I../mtb_shared/mtb-hal-cat1/release-v2.2.0 -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/COMPONENT_CAT1A/include/triggers -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/include -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/include_pvt -I../mtb_shared/mtb-hal-cat1/release-v2.2.0/source -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices/COMPONENT_CAT1A/include -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices/COMPONENT_CAT1A -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0 -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices/COMPONENT_CAT1A/include/ip -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/drivers/include -I../mtb_shared/mtb-pdl-cat1/release-v3.0.0/drivers 
+    Linking output file mtb-example-hal-hello-world.elf
+C:/Users/20002890/ModusToolbox/tools_3.0/gcc/bin/arm-none-eabi-objcopy -O ihex C:/Users/20002890/PSoC6_FreeRTOS/PSoC6_FreeRTOS_3_Tasks/build/APP_CY8CPROTO-062-4343W/Debug/mtb-example-hal-hello-world.elf C:/Users/20002890/PSoC6_FreeRTOS/PSoC6_FreeRTOS_3_Tasks/build/APP_CY8CPROTO-062-4343W/Debug/mtb-example-hal-hello-world.hex
+==============================================================================
+= Build complete =
+==============================================================================
+
+Calculating memory consumption: CY8C624ABZI-S2D44 GCC_ARM
+
+   ---------------------------------------------------- 
+  | Section Name         |  Address      |  Size       | 
+   ---------------------------------------------------- 
+  | .cy_m0p_image        |  0x10000000   |  6224       | 
+  | .text                |  0x10002000   |  48860      | 
+  | .ARM.exidx           |  0x1000dedc   |  8          | 
+  | .copy.table          |  0x1000dee4   |  24         | 
+  | .zero.table          |  0x1000defc   |  8          | 
+  | .data                |  0x080022e0   |  1536       | 
+  | .cy_sharedmem        |  0x080028e0   |  8          | 
+  | .noinit              |  0x080028e8   |  224        | 
+  | .bss                 |  0x080029c8   |  3760       | 
+  | .heap                |  0x08003878   |  1027976    | 
+   ---------------------------------------------------- 
+
+  Total Internal Flash (Available)          2097152    
+  Total Internal Flash (Utilized)           58644      
+
+
+============================================================================== = INFO message(s) = ==============================================================================  INFO: Multiple tools versions were found in "/cygdrive/c/Users/20002890/ModusToolbox/tools_2.4 /cygdrive/c/Users/20002890/ModusToolbox/tools_3.0 C:/Users/20002890/ModusToolbox/tools_2.4 C:/Users/20002890/ModusToolbox/tools_3.0". This build is currently using "C:/Users/20002890/ModusToolbox/tools_3.0". Check that this is the correct version that should be used in this build. To stop seeing this message, set the CY_TOOLS_PATHS environment variable to the location of the tools directory. This can be done either as an environment variable or set in the application Makefile.  
+
+14:41:25 Build Finished. 0 errors, 0 warnings. (took 28s.812ms)
+
