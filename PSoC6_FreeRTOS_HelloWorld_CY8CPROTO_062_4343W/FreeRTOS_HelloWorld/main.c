@@ -72,7 +72,7 @@ int main(void)
     							vTimerCallback);
 
 
-    printf("Before FreeRTOS Scheduler\r\n");
+    printf("Before FreeRTOS Scheduler \r\n");
 
     xTaskCreate(TxTask, ( const char * ) "Tx", configMINIMAL_STACK_SIZE, NULL, tskIDLE_PRIORITY, &xTxTask);
     xTaskCreate(RxTask, ( const char * ) "Rx", configMINIMAL_STACK_SIZE, NULL, tskIDLE_PRIORITY+1, &xRxTask);
