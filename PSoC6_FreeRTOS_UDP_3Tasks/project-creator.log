@@ -1,0 +1,1058 @@
+Loading the manifest data
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished loading the manifest data (2243 ms)
+Loading the device db
+Finished loading the device db (11597 ms)
+INFO:Using the executable path for the tools directory.
+0 error(s), 0 warning(s)
+INFO:Using the executable path for the tools directory.
+
+Summary: 
+
+BSP: CY8CPROTO-062-4343W
+Template Application(s): WiFi UDP Client
+Application(s) Root Path: C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks
+
+Press "Create" to create the selected application(s).
+
+Collecting application data...
+
+Info: The following entered on the command line will create the exact same project as that created with the GUI tool:
+C:/Users/20002890/ModusToolbox/tools_3.0/project-creator/project-creator-cli.exe --board-id CY8CPROTO-062-4343W --board-uri https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W --board-commit latest-v4.X --app-id mtb-example-wifi-udp-client --app-uri https://github.com/Infineon/mtb-example-wifi-udp-client --app-commit latest-v4.X --cypress-tools C:/Users/20002890/ModusToolbox/tools_3.0 --target-dir C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks --user-app-name WiFi_UDP_Client --use-modus-shell
+
+Starting application creation for 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client'.
+Acquiring the application source 'https://github.com/Infineon/mtb-example-wifi-udp-client'.
+Acquired application source successfully.
+Loading the application.
+Loaded the application successfully.
+Processing project 'WiFi_UDP_Client'.
+Starting to commit changes to the filesystem and project 'mtb-example-wifi-udp-client'.
+Writing mtb file for asset 'CY8CPROTO-062-4343W' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/deps'.
+Writing mtb file for asset 'abstraction-rtos' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'clib-support' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'connectivity-utilities' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'mbedTLS Acceleration' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'freertos' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'lwip-freertos-integration' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'lwip-network-interface-integration' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'lwip' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'mbedtls' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'secure-sockets' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'whd-bsp-integration' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'wifi-connection-manager' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'wifi-host-driver' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'wpa3-external-supplicant' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'cat1cm0p' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'core-lib' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'core-make' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'mtb-pdl-cat1' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'recipe-make-cat1a' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'cmsis' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs'.
+Writing mtb file for asset 'retarget-io' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/deps'.
+Writing mtb file for asset 'serial-flash' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/deps'.
+Writing mtb file for asset 'wifi-core-freertos-lwip-mbedtls' to the folder 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/deps'.
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_serial-flash clone --bare https://github.com/cypresssemiconductorco/serial-flash serial-flash
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls clone --bare https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls wifi-core-freertos-lwip-mbedtls
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_abstraction-rtos/abstraction-rtos config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_clib-support/clib-support config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_connectivity-utilities clone --bare https://github.com/cypresssemiconductorco/connectivity-utilities connectivity-utilities
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cy-mbedtls-acceleration clone --bare https://github.com/Infineon/cy-mbedtls-acceleration cy-mbedtls-acceleration
+Cloning into bare repository 'connectivity-utilities'...
+Cloning into bare repository 'wifi-core-freertos-lwip-mbedtls'...
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_abstraction-rtos/abstraction-rtos config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_freertos/freertos config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Cloning into bare repository 'serial-flash'...
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-freertos-integration clone --bare https://github.com/Infineon/lwip-freertos-integration lwip-freertos-integration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_clib-support/clib-support config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-network-interface-integration clone --bare https://github.com/Infineon/lwip-network-interface-integration lwip-network-interface-integration
+Cloning into bare repository '
+cy-mbedtls-acceleration'...
+Cloning into bare repository 'lwip-network-interface-integration'...
+Cloning into bare repository 'lwip-freertos-integration'...
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_freertos/freertos config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___git.savannah.nongnu.org_git_lwip clone --bare https://git.savannah.nongnu.org/git/lwip lwip
+Cloning into bare repository 'lwip'...
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls clone --bare https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls wifi-core-freertos-lwip-mbedtls
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_ARMmbed_mbedtls clone --bare https://github.com/ARMmbed/mbedtls mbedtls
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_serial-flash clone --bare https://github.com/cypresssemiconductorco/serial-flash serial-flash
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_secure-sockets clone --bare https://github.com/cypresssemiconductorco/secure-sockets secure-sockets
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_connectivity-utilities clone --bare https://github.com/cypresssemiconductorco/connectivity-utilities connectivity-utilities
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_whd-bsp-integration clone --bare https://github.com/cypresssemiconductorco/whd-bsp-integration whd-bsp-integration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cy-mbedtls-acceleration clone --bare https://github.com/Infineon/cy-mbedtls-acceleration cy-mbedtls-acceleration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-connection-manager clone --bare https://github.com/cypresssemiconductorco/wifi-connection-manager wifi-connection-manager
+Cloning into bare repository 'mbedtls'...
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-freertos-integration clone --bare https://github.com/Infineon/lwip-freertos-integration lwip-freertos-integration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-host-driver clone --bare https://github.com/cypresssemiconductorco/wifi-host-driver wifi-host-driver
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-network-interface-integration clone --bare https://github.com/Infineon/lwip-network-interface-integration lwip-network-interface-integration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wpa3-external-supplicant clone --bare https://github.com/Infineon/wpa3-external-supplicant wpa3-external-supplicant
+Cloning into bare repository 'secure-sockets'...
+Cloning into bare repository 'whd-bsp-integration'...
+Cloning into bare repository 'wifi-connection-manager'...
+Cloning into bare repository 'wpa3-external-supplicant'...
+Cloning into bare repository 'wifi-host-driver'...
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_whd-bsp-integration clone --bare https://github.com/cypresssemiconductorco/whd-bsp-integration whd-bsp-integration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_secure-sockets clone --bare https://github.com/cypresssemiconductorco/secure-sockets secure-sockets
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wpa3-external-supplicant clone --bare https://github.com/Infineon/wpa3-external-supplicant wpa3-external-supplicant
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_abstraction-rtos/abstraction-rtos fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-connection-manager clone --bare https://github.com/cypresssemiconductorco/wifi-connection-manager wifi-connection-manager
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_clib-support/clib-support fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_freertos/freertos fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_abstraction-rtos/abstraction-rtos fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls/wifi-core-freertos-lwip-mbedtls remote add cypress https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_serial-flash/serial-flash remote add cypress https://github.com/cypresssemiconductorco/serial-flash
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_clib-support/clib-support fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_connectivity-utilities/connectivity-utilities remote add cypress https://github.com/cypresssemiconductorco/connectivity-utilities
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls/wifi-core-freertos-lwip-mbedtls remote add cypress https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cy-mbedtls-acceleration/cy-mbedtls-acceleration remote add cypress https://github.com/Infineon/cy-mbedtls-acceleration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_serial-flash/serial-flash remote add cypress https://github.com/cypresssemiconductorco/serial-flash
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-freertos-integration/lwip-freertos-integration remote add cypress https://github.com/Infineon/lwip-freertos-integration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_connectivity-utilities/connectivity-utilities remote add cypress https://github.com/cypresssemiconductorco/connectivity-utilities
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-network-interface-integration/lwip-network-interface-integration remote add cypress https://github.com/Infineon/lwip-network-interface-integration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cy-mbedtls-acceleration/cy-mbedtls-acceleration remote add cypress https://github.com/Infineon/cy-mbedtls-acceleration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_whd-bsp-integration/whd-bsp-integration remote add cypress https://github.com/cypresssemiconductorco/whd-bsp-integration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-freertos-integration/lwip-freertos-integration remote add cypress https://github.com/Infineon/lwip-freertos-integration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_secure-sockets/secure-sockets remote add cypress https://github.com/cypresssemiconductorco/secure-sockets
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-network-interface-integration/lwip-network-interface-integration remote add cypress https://github.com/Infineon/lwip-network-interface-integration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wpa3-external-supplicant/wpa3-external-supplicant remote add cypress https://github.com/Infineon/wpa3-external-supplicant
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_whd-bsp-integration/whd-bsp-integration remote add cypress https://github.com/cypresssemiconductorco/whd-bsp-integration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_secure-sockets/secure-sockets remote add cypress https://github.com/cypresssemiconductorco/secure-sockets
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wpa3-external-supplicant/wpa3-external-supplicant remote add cypress https://github.com/Infineon/wpa3-external-supplicant
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_freertos/freertos fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a fetch --all --tags --force --quiet
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-connection-manager/wifi-connection-manager remote add cypress https://github.com/cypresssemiconductorco/wifi-connection-manager
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-connection-manager/wifi-connection-manager remote add cypress https://github.com/cypresssemiconductorco/wifi-connection-manager
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W TARGET_CY8CPROTO-062-4343W
+Cloning into 'TARGET_CY8CPROTO-062-4343W'...
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W TARGET_CY8CPROTO-062-4343W
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_abstraction-rtos/abstraction-rtos release-v1.6.0
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io release-v1.3.0
+Cloning into 'release-v1.6.0'...
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_clib-support/clib-support release-v1.3.0
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a fetch --all --tags --force --quiet
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls/wifi-core-freertos-lwip-mbedtls remote set-url --push cypress https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls
+done.
+Cloning into 'release-v1.3.0'...
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_abstraction-rtos/abstraction-rtos release-v1.6.0
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_serial-flash/serial-flash remote set-url --push cypress https://github.com/cypresssemiconductorco/serial-flash
+Cloning into 'release-v1.3.0'...
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls/wifi-core-freertos-lwip-mbedtls remote set-url --push cypress https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_connectivity-utilities/connectivity-utilities remote set-url --push cypress https://github.com/cypresssemiconductorco/connectivity-utilities
+done.
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_serial-flash/serial-flash remote set-url --push cypress https://github.com/cypresssemiconductorco/serial-flash
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cy-mbedtls-acceleration/cy-mbedtls-acceleration remote set-url --push cypress https://github.com/Infineon/cy-mbedtls-acceleration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io release-v1.3.0
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-freertos-integration/lwip-freertos-integration remote set-url --push cypress https://github.com/Infineon/lwip-freertos-integration
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_clib-support/clib-support release-v1.3.0
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-network-interface-integration/lwip-network-interface-integration remote set-url --push cypress https://github.com/Infineon/lwip-network-interface-integration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_connectivity-utilities/connectivity-utilities remote set-url --push cypress https://github.com/cypresssemiconductorco/connectivity-utilities
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_whd-bsp-integration/whd-bsp-integration remote set-url --push cypress https://github.com/cypresssemiconductorco/whd-bsp-integration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cy-mbedtls-acceleration/cy-mbedtls-acceleration remote set-url --push cypress https://github.com/Infineon/cy-mbedtls-acceleration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_secure-sockets/secure-sockets remote set-url --push cypress https://github.com/cypresssemiconductorco/secure-sockets
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-freertos-integration/lwip-freertos-integration remote set-url --push cypress https://github.com/Infineon/lwip-freertos-integration
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wpa3-external-supplicant/wpa3-external-supplicant remote set-url --push cypress https://github.com/Infineon/wpa3-external-supplicant
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-network-interface-integration/lwip-network-interface-integration remote set-url --push cypress https://github.com/Infineon/lwip-network-interface-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_freertos/freertos release-v10.4.304
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_secure-sockets/secure-sockets remote set-url --push cypress https://github.com/cypresssemiconductorco/secure-sockets
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p release-v1.0.0
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_whd-bsp-integration/whd-bsp-integration remote set-url --push cypress https://github.com/cypresssemiconductorco/whd-bsp-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib release-v1.3.1
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wpa3-external-supplicant/wpa3-external-supplicant remote set-url --push cypress https://github.com/Infineon/wpa3-external-supplicant
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make release-v3.0.0
+Cloning into 'release-v10.4.304'...
+Cloning into 'release-v1.3.1'...
+Cloning into 'release-v3.0.0'...
+Cloning into 'release-v1.0.0'...
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_freertos/freertos release-v10.4.304
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1 clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 release-v2.2.0
+done.
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib release-v1.3.1
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-connection-manager/wifi-connection-manager remote set-url --push cypress https://github.com/cypresssemiconductorco/wifi-connection-manager
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make release-v3.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs/TARGET_CY8CPROTO-062-4343W checkout release-v4.0.0
+Cloning into 'release-v2.2.0'...
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p release-v1.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1 clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 release-v3.0.0
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-connection-manager/wifi-connection-manager remote set-url --push cypress https://github.com/cypresssemiconductorco/wifi-connection-manager
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis release-v5.8.0
+Cloning into '
+release-v3.0.0'...
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1 clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 release-v2.2.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a release-v2.0.0
+Cloning into 'release-v5.8.0'...
+done.
+Note: switching to 'release-v4.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at cef390f Upload TARGET_CY8CPROTO-062-4343W 4.0.0.29660
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs/TARGET_CY8CPROTO-062-4343W checkout release-v4.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos/release-v1.6.0 checkout release-v1.6.0
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1 clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 release-v3.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls/wifi-core-freertos-lwip-mbedtls release-v1.0.0
+done.
+Cloning into 'release-v2.0.0'...
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis release-v5.8.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_serial-flash/serial-flash release-v1.3.0
+Cloning into 'release-v1.0.0'...
+done.
+Note: switching to 'release-v1.6.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 7a3c39f Upload abstraction-rtos 1.6.0.29736
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos/release-v1.6.0 checkout release-v1.6.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io/release-v1.3.0 checkout release-v1.3.0
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a release-v2.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support/release-v1.3.0 checkout release-v1.3.0
+done.
+Cloning into 'release-v1.3.0'...
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls/wifi-core-freertos-lwip-mbedtls release-v1.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_connectivity-utilities/connectivity-utilities release-v4.0.0
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_serial-flash/serial-flash release-v1.3.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cy-mbedtls-acceleration/cy-mbedtls-acceleration release-v1.4.1
+Note: switching to 'release-v1.3.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at a61cd7c Upload retarget-io 1.3.0.25183
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io/release-v1.3.0 checkout release-v1.3.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-freertos-integration/lwip-freertos-integration release-v1.0.0
+Note: switching to 'release-v1.3.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at d3e0bca Upload clib-support 1.3.0.29736
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support/release-v1.3.0 checkout release-v1.3.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-network-interface-integration/lwip-network-interface-integration release-v1.0.0
+Cloning into 'release-v4.0.0'...
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_connectivity-utilities/connectivity-utilities release-v4.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_secure-sockets/secure-sockets release-v3.0.0
+Cloning into 'release-v1.4.1'...
+Cloning into 'release-v1.0.0'...
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_cy-mbedtls-acceleration/cy-mbedtls-acceleration release-v1.4.1
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_whd-bsp-integration/whd-bsp-integration release-v2.1.0
+done.
+Cloning into 'release-v3.0.0'...
+Cloning into 'release-v1.0.0'...
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-freertos-integration/lwip-freertos-integration release-v1.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wpa3-external-supplicant/wpa3-external-supplicant release-v1.1.0
+Cloning into 'release-v2.1.0'...
+done.
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_lwip-network-interface-integration/lwip-network-interface-integration release-v1.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos/release-v10.4.304 checkout release-v10.4.304
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_secure-sockets/secure-sockets release-v3.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+Cloning into 'release-v1.1.0'...
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_whd-bsp-integration/whd-bsp-integration release-v2.1.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make/release-v3.0.0 checkout release-v3.0.0
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_Infineon_wpa3-external-supplicant/wpa3-external-supplicant release-v1.1.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+Note: switching to 'release-v1.3.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 1c1cb8a Upload core-lib 1.3.1.29660
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-connection-manager/wifi-connection-manager release-v3.0.0
+Note: switching to 'release-v10.4.304'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at ec40ef0 Upload freertos 10.4.304.461
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos/release-v10.4.304 checkout release-v10.4.304
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Note: switching to 'release-v3.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 275d58b Upload core-make 3.0.0.4056
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make/release-v3.0.0 checkout release-v3.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs/TARGET_CY8CPROTO-062-4343W remote set-url cypress https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W
+Cloning into 'release-v3.0.0'...
+Note: switching to 'release-v1.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at b3d4b82 Upload cat1cm0p 1.0.0.148
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1/release-v3.0.0 checkout release-v3.0.0
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs/TARGET_CY8CPROTO-062-4343W remote set-url cypress https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-connection-manager/wifi-connection-manager release-v3.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos/release-v1.6.0 remote set-url cypress https://github.com/cypresssemiconductorco/abstraction-rtos
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos/release-v1.6.0 remote set-url cypress https://github.com/cypresssemiconductorco/abstraction-rtos
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+Note: switching to 'release-v2.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 28d875a Upload recipe-make-cat1a 2.0.0.4056
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 checkout release-v1.0.0
+Note: switching to 'release-v5.8.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash/release-v1.3.0 checkout release-v1.3.0
+Note: switching to 'release-v1.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at be86442 Upload wifi-core-freertos-lwip-mbedtls 1.0.0.67
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 checkout release-v1.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io/release-v1.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/retarget-io
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io/release-v1.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/retarget-io
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support/release-v1.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/clib-support
+Note: switching to 'release-v1.3.0
+'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at c7b55aa Upload serial-flash 1.3.0.27308
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash/release-v1.3.0 checkout release-v1.3.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities/release-v4.0.0 checkout release-v4.0.0
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support/release-v1.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/clib-support
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 checkout release-v1.4.1
+Note: switching to 'release-v1.4.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 1fe9b63 Upload cy-mbedtls-acceleration 1.4.1.930
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 checkout release-v1.4.1
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration/release-v1.0.0 checkout release-v1.0.0
+Note: switching to '
+release-v4.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at ca896aa Upload connectivity-utilities 4.0.0.1341
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities/release-v4.0.0 checkout release-v4.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration/release-v1.0.0 checkout release-v1.0.0
+Note: switching to 'release-v2.2.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at c3e71c0 Upload mtb-hal-cat1 2.2.0.29808
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets/release-v3.0.0 checkout release-v3.0.0
+Note: switching to 'release-v1.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at f4797e9 Upload lwip-freertos-integration 1.0.0.19
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration/release-v1.0.0 checkout release-v1.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration/release-v2.1.0 checkout release-v2.1.0
+Note: switching to 'release-v1.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 845718e Upload lwip-network-interface-integration 1.0.0.203
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration/release-v1.0.0 checkout release-v1.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant/release-v1.1.0 checkout release-v1.1.0
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-host-driver clone --bare https://github.com/cypresssemiconductorco/wifi-host-driver wifi-host-driver
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib/release-v1.3.1 remote set-url cypress https://github.com/cypresssemiconductorco/core-lib
+Note: switching to 'release-v2.1.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at e67d148 Upload whd-bsp-integration 2.1.0.29660
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration/release-v2.1.0 checkout release-v2.1.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos/release-v10.4.304 remote set-url cypress https://github.com/cypresssemiconductorco/freertos
+Note: switching to 'release-v3.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at bff5d60 Upload secure-sockets 3.0.0.2312
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets/release-v3.0.0 checkout release-v3.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/core-make
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib/release-v1.3.1 remote set-url cypress https://github.com/cypresssemiconductorco/core-lib
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p/release-v1.0.0 remote set-url cypress https://github.com/Infineon/cat1cm0p
+Note: switching to 'release-v1.1.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at ca71f1d Upload wpa3-external-supplicant 1.1.0.98
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant/release-v1.1.0 checkout release-v1.1.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs/TARGET_CY8CPROTO-062-4343W remote set-url --push cypress https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos/release-v10.4.304 remote set-url cypress https://github.com/cypresssemiconductorco/freertos
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager/release-v3.0.0 checkout release-v3.0.0
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/core-make
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos/release-v1.6.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/abstraction-rtos
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p/release-v1.0.0 remote set-url cypress https://github.com/Infineon/cat1cm0p
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs/TARGET_CY8CPROTO-062-4343W remote set-url --push cypress https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis/release-v5.8.0 remote set-url cypress https://github.com/Infineon/cmsis
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos/release-v1.6.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/abstraction-rtos
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 remote set-url cypress https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io/release-v1.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/retarget-io
+Note: switching to 'release-v3.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at a09628f Upload wifi-connection-manager 3.0.0.1660
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager/release-v3.0.0 checkout release-v3.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash/release-v1.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/serial-flash
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis/release-v5.8.0 remote set-url cypress https://github.com/Infineon/cmsis
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support/release-v1.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/clib-support
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 remote set-url cypress https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 remote set-url cypress https://github.com/Infineon/cy-mbedtls-acceleration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___git.savannah.nongnu.org_git_lwip clone --bare https://git.savannah.nongnu.org/git/lwip lwip
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities/release-v4.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/connectivity-utilities
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io/release-v1.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/retarget-io
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support/release-v1.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/clib-support
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration/release-v1.0.0 remote set-url cypress https://github.com/Infineon/lwip-freertos-integration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 remote set-url cypress https://github.com/Infineon/cy-mbedtls-acceleration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration/release-v1.0.0 remote set-url cypress https://github.com/Infineon/lwip-network-interface-integration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities/release-v4.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/connectivity-utilities
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-host-driver/wifi-host-driver remote add cypress https://github.com/cypresssemiconductorco/wifi-host-driver
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration/release-v2.1.0 remote set-url cypress https://github.com/cypresssemiconductorco/whd-bsp-integration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration/release-v1.0.0 remote set-url cypress https://github.com/Infineon/lwip-freertos-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/secure-sockets
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash/release-v1.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/serial-flash
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib/release-v1.3.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-lib
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration/release-v1.0.0 remote set-url cypress https://github.com/Infineon/lwip-network-interface-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant/release-v1.1.0 remote set-url cypress https://github.com/Infineon/wpa3-external-supplicant
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-host-driver/wifi-host-driver remote add cypress https://github.com/cypresssemiconductorco/wifi-host-driver
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos/release-v10.4.304 remote set-url --push cypress https://github.com/cypresssemiconductorco/freertos
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration/release-v2.1.0 remote set-url cypress https://github.com/cypresssemiconductorco/whd-bsp-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-make
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/secure-sockets
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/cat1cm0p
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib/release-v1.3.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-lib
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs/TARGET_CY8CPROTO-062-4343W remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant/release-v1.1.0 remote set-url cypress https://github.com/Infineon/wpa3-external-supplicant
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos/release-v1.6.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_abstraction-rtos/abstraction-rtos
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-make
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos/release-v10.4.304 remote set-url --push cypress https://github.com/cypresssemiconductorco/freertos
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/wifi-connection-manager
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs/TARGET_CY8CPROTO-062-4343W remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis/release-v5.8.0 remote set-url --push cypress https://github.com/Infineon/cmsis
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/cat1cm0p
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/abstraction-rtos/release-v1.6.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_abstraction-rtos/abstraction-rtos
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___git.savannah.nongnu.org_git_lwip/lwip remote add cypress https://git.savannah.nongnu.org/git/lwip
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis/release-v5.8.0 remote set-url --push cypress https://github.com/Infineon/cmsis
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io/release-v1.3.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support/release-v1.3.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_clib-support/clib-support
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 remote set-url --push cypress https://github.com/Infineon/cy-mbedtls-acceleration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/wifi-connection-manager
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities/release-v4.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/connectivity-utilities
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___git.savannah.nongnu.org_git_lwip/lwip remote add cypress https://git.savannah.nongnu.org/git/lwip
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/retarget-io/release-v1.3.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/lwip-freertos-integration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash/release-v1.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/serial-flash
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/clib-support/release-v1.3.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_clib-support/clib-support
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/lwip-network-interface-integration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities/release-v4.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/connectivity-utilities
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-host-driver/wifi-host-driver remote set-url --push cypress https://github.com/cypresssemiconductorco/wifi-host-driver
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 remote set-url --push cypress https://github.com/Infineon/cy-mbedtls-acceleration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration/release-v2.1.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/whd-bsp-integration
+Note: switching to 'release-v3.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at e851dc2 Upload mtb-pdl-cat1 3.0.0.19024
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1/release-v3.0.0 checkout release-v3.0.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/secure-sockets
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/lwip-freertos-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib/release-v1.3.1 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-lib/core-lib
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration/release-v2.1.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/whd-bsp-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant/release-v1.1.0 remote set-url --push cypress https://github.com/Infineon/wpa3-external-supplicant
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-host-driver/wifi-host-driver remote set-url --push cypress https://github.com/cypresssemiconductorco/wifi-host-driver
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make/release-v3.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-make/core-make
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/lwip-network-interface-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos/release-v10.4.304 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_freertos/freertos
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash/release-v1.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/serial-flash
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p/release-v1.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_cat1cm0p/cat1cm0p
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/secure-sockets
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis/release-v5.8.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_cmsis/cmsis
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant/release-v1.1.0 remote set-url --push cypress https://github.com/Infineon/wpa3-external-supplicant
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-lib/release-v1.3.1 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-lib/core-lib
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls/wifi-core-freertos-lwip-mbedtls
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/core-make/release-v3.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-make/core-make
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/wifi-connection-manager
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/freertos/release-v10.4.304 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_freertos/freertos
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___git.savannah.nongnu.org_git_lwip/lwip remote set-url --push cypress https://git.savannah.nongnu.org/git/lwip
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cat1cm0p/release-v1.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_cat1cm0p/cat1cm0p
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cmsis/release-v5.8.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_cmsis/cmsis
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities/release-v4.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_connectivity-utilities/connectivity-utilities
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_cy-mbedtls-acceleration/cy-mbedtls-acceleration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/wifi-connection-manager
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_wifi-core-freertos-lwip-mbedtls/wifi-core-freertos-lwip-mbedtls
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration/release-v1.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_lwip-freertos-integration/lwip-freertos-integration
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___git.savannah.nongnu.org_git_lwip/lwip remote set-url --push cypress https://git.savannah.nongnu.org/git/lwip
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration/release-v2.1.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_whd-bsp-integration/whd-bsp-integration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-host-driver/wifi-host-driver release-v2.5.0
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_cy-mbedtls-acceleration/cy-mbedtls-acceleration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration/release-v1.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_lwip-network-interface-integration/lwip-network-interface-integration
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/connectivity-utilities/release-v4.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_connectivity-utilities/connectivity-utilities
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash/release-v1.3.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_serial-flash/serial-flash
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets/release-v3.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_secure-sockets/secure-sockets
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-freertos-integration/release-v1.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_lwip-freertos-integration/lwip-freertos-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant/release-v1.1.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_wpa3-external-supplicant/wpa3-external-supplicant
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/whd-bsp-integration/release-v2.1.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_whd-bsp-integration/whd-bsp-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager/release-v3.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_wifi-connection-manager/wifi-connection-manager
+Cloning into 'release-v2.5.0'...
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/secure-sockets/release-v3.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_secure-sockets/secure-sockets
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___git.savannah.nongnu.org_git_lwip/lwip STABLE-2_1_2_RELEASE
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip-network-interface-integration/release-v1.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_lwip-network-interface-integration/lwip-network-interface-integration
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/serial-flash/release-v1.3.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_serial-flash/serial-flash
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wpa3-external-supplicant/release-v1.1.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_Infineon_wpa3-external-supplicant/wpa3-external-supplicant
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-connection-manager/release-v3.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_wifi-connection-manager/wifi-connection-manager
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_wifi-host-driver/wifi-host-driver release-v2.5.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver/release-v2.5.0 checkout release-v2.5.0
+Cloning into 'STABLE-2_1_2_RELEASE'...
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___git.savannah.nongnu.org_git_lwip/lwip STABLE-2_1_2_RELEASE
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip/STABLE-2_1_2_RELEASE checkout STABLE-2_1_2_RELEASE
+Note: switching to 'STABLE-2_1_2_RELEASE'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 159e31b6 Prepare 2.1.2 release
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip/STABLE-2_1_2_RELEASE checkout STABLE-2_1_2_RELEASE
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip/STABLE-2_1_2_RELEASE remote set-url cypress https://git.savannah.nongnu.org/git/lwip
+Note: switching to 'release-v2.5.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 9588d90 Upload wifi-host-driver 2.5.0.15307
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver/release-v2.5.0 checkout release-v2.5.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver/release-v2.5.0 remote set-url cypress https://github.com/cypresssemiconductorco/wifi-host-driver
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip/STABLE-2_1_2_RELEASE remote set-url cypress https://git.savannah.nongnu.org/git/lwip
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip/STABLE-2_1_2_RELEASE remote set-url --push cypress https://git.savannah.nongnu.org/git/lwip
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver/release-v2.5.0 remote set-url cypress https://github.com/cypresssemiconductorco/wifi-host-driver
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver/release-v2.5.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/wifi-host-driver
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip/STABLE-2_1_2_RELEASE remote set-url --push cypress https://git.savannah.nongnu.org/git/lwip
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip/STABLE-2_1_2_RELEASE remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___git.savannah.nongnu.org_git_lwip/lwip
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver/release-v2.5.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/wifi-host-driver
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver/release-v2.5.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_wifi-host-driver/wifi-host-driver
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/lwip/STABLE-2_1_2_RELEASE remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___git.savannah.nongnu.org_git_lwip/lwip
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/wifi-host-driver/release-v2.5.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_wifi-host-driver/wifi-host-driver
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_ARMmbed_mbedtls clone --bare https://github.com/ARMmbed/mbedtls mbedtls
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_ARMmbed_mbedtls/mbedtls remote add cypress https://github.com/ARMmbed/mbedtls
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_ARMmbed_mbedtls/mbedtls remote add cypress https://github.com/ARMmbed/mbedtls
+Starting: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_ARMmbed_mbedtls/mbedtls remote set-url --push cypress https://github.com/ARMmbed/mbedtls
+Success: git -C C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_ARMmbed_mbedtls/mbedtls remote set-url --push cypress https://github.com/ARMmbed/mbedtls
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_ARMmbed_mbedtls/mbedtls mbedtls-2.25.0
+Cloning into 'mbedtls-2.25.0'...
+done.
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls clone --origin cypress --no-checkout C:/Users/20002890/.modustoolbox/git/cache/git/https___github.com_ARMmbed_mbedtls/mbedtls mbedtls-2.25.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls/mbedtls-2.25.0 checkout mbedtls-2.25.0
+Note: switching to 'mbedtls-2.25.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 1c54b5410 Merge pull request #786 from ARMmbed/dev/yanesca/mbedtls-2.25.0r0-pr
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls/mbedtls-2.25.0 checkout mbedtls-2.25.0
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls/mbedtls-2.25.0 remote set-url cypress https://github.com/ARMmbed/mbedtls
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls/mbedtls-2.25.0 remote set-url cypress https://github.com/ARMmbed/mbedtls
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls/mbedtls-2.25.0 remote set-url --push cypress https://github.com/ARMmbed/mbedtls
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls/mbedtls-2.25.0 remote set-url --push cypress https://github.com/ARMmbed/mbedtls
+Starting: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls/mbedtls-2.25.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_ARMmbed_mbedtls/mbedtls
+Success: git -C C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/mtb_shared/mbedtls/mbedtls-2.25.0 remote add cypress-offline C:/Users/20002890/.modustoolbox/offline/git/https___github.com_ARMmbed_mbedtls/mbedtls
+Requested to change the active target to 'APP_CY8CPROTO-062-4343W'.
+Removed the file 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/deps/TARGET_CY8CPROTO-062-4343W.mtb'.
+Writing the file 'C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-wifi-udp-client'.
+Project "WiFi_UDP_Client" created successfully.
+Successfully created "WiFi_UDP_Client" application.
+==============================================================================
+= Export "WiFi_UDP_Client" application to Eclipse IDE for ModusToolbox™ =
+==============================================================================
+C:/Users/20002890/ModusToolbox/tools_3.0/modus-shell/bin/make.exe eclipse CY_IDE_PRJNAME=WiFi_UDP_Client CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=3.0 CY_TOOLS_PATHS=C:/Users/20002890/ModusToolbox/tools_3.0 MTB_MAKE_ECLIPSE_FORCE_REGENERATE_PROJECT=1
+Tools Directory: C:/Users/20002890/ModusToolbox/tools_3.0
+Searching installed tools in progress...
+Searching installed tools complete
+
+
+
+
+Prebuild operations complete
+
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+
+Tools Directory: C:/Users/20002890/ModusToolbox/tools_3.0
+
+Initializing build: mtb-example-wifi-udp-client Debug APP_CY8CPROTO-062-4343W GCC_ARM
+
+Constructing build rules...
+Build rules construction complete
+
+==============================================================================
+= Generating IDE files =
+==============================================================================
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.mtbLaunchConfigs/WiFi_UDP_Client Attach (JLink).launch
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.mtbLaunchConfigs/WiFi_UDP_Client Attach (KitProg3_MiniProg4).launch
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.mtbLaunchConfigs/WiFi_UDP_Client Debug (JLink).launch
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.mtbLaunchConfigs/WiFi_UDP_Client Debug (KitProg3_MiniProg4).launch
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.mtbLaunchConfigs/WiFi_UDP_Client Erase (JLink).launch
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.mtbLaunchConfigs/WiFi_UDP_Client Erase (KitProg3_MiniProg4).launch
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.mtbLaunchConfigs/WiFi_UDP_Client Program (JLink).launch
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.mtbLaunchConfigs/WiFi_UDP_Client Program (KitProg3_MiniProg4).launch
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.project
+Generated C:/Users/20002890/PSoC6_FreeRTOS_UDP_3Tasks/WiFi_UDP_Client/.cproject
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+  
+The application "WiFi_UDP_Client" was successfully exported to Eclipse IDE for ModusToolbox™.
+0 error(s), 0 warning(s)
+
+Summary:
+
+Successfully created and exported "WiFi_UDP_Client" application.
