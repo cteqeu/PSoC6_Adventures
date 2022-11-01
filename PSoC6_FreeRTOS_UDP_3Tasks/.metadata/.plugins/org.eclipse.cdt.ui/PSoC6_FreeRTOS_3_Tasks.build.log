@@ -1,0 +1,61 @@
+21:47:53 **** Build of configuration Debug for project PSoC6_FreeRTOS_3_Tasks ****
+"C:\\Users\\20002890\\ModusToolbox\\tools_3.0\\modus-shell\\bin\\make" CY_MAKE_IDE=eclipse CY_IDE_TOOLS_DIR=C:/Users/20002890/ModusToolbox/tools_3.0 CY_IDE_BT_TOOLS_DIR= -j8 all 
+Tools Directory: C:/Users/20002890/ModusToolbox/tools_3.0
+Searching installed tools in progress...
+Searching installed tools complete
+
+
+INFO: Multiple tools versions were found in "/cygdrive/c/Users/20002890/ModusToolbox/tools_2.4 /cygdrive/c/Users/20002890/ModusToolbox/tools_3.0 C:/Users/20002890/ModusToolbox/tools_2.4 C:/Users/20002890/ModusToolbox/tools_3.0". This build is currently using "C:/Users/20002890/ModusToolbox/tools_3.0". Check that this is the correct version that should be used in this build. To stop seeing this message, set the CY_TOOLS_PATHS environment variable to the location of the tools directory. This can be done either as an environment variable or set in the application Makefile.
+
+
+
+Prebuild operations complete
+
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+
+Tools Directory: C:/Users/20002890/ModusToolbox/tools_3.0
+
+Initializing build: mtb-example-hal-hello-world Debug APP_CY8CPROTO-062-4343W GCC_ARM
+
+Constructing build rules...
+Build rules construction complete
+
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Building 416 file(s)
+==============================================================================
+= Build complete =
+==============================================================================
+
+Calculating memory consumption: CY8C624ABZI-S2D44 GCC_ARM
+
+   ---------------------------------------------------- 
+  | Section Name         |  Address      |  Size       | 
+   ---------------------------------------------------- 
+  | .cy_m0p_image        |  0x10000000   |  6224       | 
+  | .text                |  0x10002000   |  728560     | 
+  | .ARM.exidx           |  0x100b3df0   |  8          | 
+  | .copy.table          |  0x100b3df8   |  24         | 
+  | .zero.table          |  0x100b3e10   |  8          | 
+  | .data                |  0x080022e0   |  1928       | 
+  | .cy_sharedmem        |  0x08002a68   |  8          | 
+  | .noinit              |  0x08002a70   |  224        | 
+  | .bss                 |  0x08002b50   |  56888      | 
+  | .heap                |  0x08010988   |  974456     | 
+   ---------------------------------------------------- 
+
+  Total Internal Flash (Available)          2097152    
+  Total Internal Flash (Utilized)           738736     
+
+
+============================================================================== = INFO message(s) = ==============================================================================  INFO: Multiple tools versions were found in "/cygdrive/c/Users/20002890/ModusToolbox/tools_2.4 /cygdrive/c/Users/20002890/ModusToolbox/tools_3.0 C:/Users/20002890/ModusToolbox/tools_2.4 C:/Users/20002890/ModusToolbox/tools_3.0". This build is currently using "C:/Users/20002890/ModusToolbox/tools_3.0". Check that this is the correct version that should be used in this build. To stop seeing this message, set the CY_TOOLS_PATHS environment variable to the location of the tools directory. This can be done either as an environment variable or set in the application Makefile. 
+ 
+
+21:48:40 Build Finished. 0 errors, 0 warnings. (took 47s.180ms)
+

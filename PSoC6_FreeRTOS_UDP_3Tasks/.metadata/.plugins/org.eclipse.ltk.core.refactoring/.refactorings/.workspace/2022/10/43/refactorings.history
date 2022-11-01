@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;mtb_shared&apos;" deleteContents="false" description="Delete resource &apos;mtb_shared&apos;" element1="/mtb_shared" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1666958593107"/>&#x0A;<refactoring comment="Delete resource &apos;mtb_shared/cy-mbedtls-acceleration&apos;" deleteContents="false" description="Delete resource &apos;mtb_shared/cy-mbedtls-acceleration&apos;" element1="/mtb_shared/cy-mbedtls-acceleration" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1666959679037"/>
+</session>

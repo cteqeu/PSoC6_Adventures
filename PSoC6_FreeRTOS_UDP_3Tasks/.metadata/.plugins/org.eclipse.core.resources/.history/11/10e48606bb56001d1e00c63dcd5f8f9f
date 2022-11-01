@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+1fe0ed5ec040930cc342904fa2560ae233b27a35 refs/remotes/cypress/master
+ba4a1e2abdb6a20d8699a3a8d7b4d9326342fae7 refs/remotes/cypress/v2.X
+1fe9b63e91e917b949277ef4cb194d60f195abad refs/tags/latest-v1.X
+ba4a1e2abdb6a20d8699a3a8d7b4d9326342fae7 refs/tags/latest-v2.X
+33aecf1d51fa63620daa14fe1d75d7bb085b2178 refs/tags/release-v1.1.0
+79a9d8e5e0a98531d8b17f94f3f040359e9cdd9d refs/tags/release-v1.2.0
+460366b26300fafe725ad1d09f7a02821b6d35e6 refs/tags/release-v1.3.0
+b9a4f9c2189b4f639a7c584d6e0034752bdb7352 refs/tags/release-v1.4.0
+1fe9b63e91e917b949277ef4cb194d60f195abad refs/tags/release-v1.4.1
+b61f07e62037c00eabf60afbf048ee254bc99a1e refs/tags/release-v2.0.0
